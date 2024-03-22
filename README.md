@@ -1,7 +1,7 @@
 # WebPages_Lectures
 
-`testkonst2001.html`
-
-**Official sites:**  
+__Official sites: 
 University of Graz  
-Institute of Psychology  
+Institute of Psychology.__
+
+`testkonst2001.html`, `www_*.zip`, respectively.
